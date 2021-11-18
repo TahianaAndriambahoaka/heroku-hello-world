@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Bienvenu, veillez remplir le formulaire ci-dessous</h1>
+    <h1>Bienvenu, veillez remplir le formulaire ci-dessous 😎</h1>
     <form action="traitementLogin.php" method="post">
         <p>Login
             <input type="text" name="login">
