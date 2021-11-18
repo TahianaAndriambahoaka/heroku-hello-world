@@ -7,6 +7,15 @@
     <title>Document</title>
 </head>
 <body>
-    hello
+    <h1>Bienvenu, veillez remplir le formulaire ci-dessous</h1>
+    <form action="traitementLogin.php" method="post">
+        <p>Login
+            <input type="text" name="login">
+        </p>
+        <p>Mot de passe
+            <input type="password" name="mdp">
+        </p>
+        <input type="submit" value="Se connecter">
+    </form>
 </body>
 </html>
